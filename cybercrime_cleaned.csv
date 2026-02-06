@@ -1,0 +1,301 @@
+id,crime_type,complaint_text,severity,language,source,clean_text
+1001, Phishing , I received an email claiming to be from my bank asking me to verify my account details and share an OTP. , High , English , Synthetic,received email claiming bank asking verify account details share otp
+1002, Phishing , Someone sent me a message saying my account will be blocked unless I click a link and enter my login details. , High , English , Synthetic,someone sent message saying account blocked unless click link enter login details
+1003, Phishing , I got a fake email pretending to be from an online shopping site asking me to update my payment information. , Medium , English , Synthetic,got fake email pretending online shopping site asking update payment information
+1004, Phishing , I received a suspicious email with a link claiming I won a prize and asking for personal details. , Medium , English , Synthetic,received suspicious email link claiming prize asking personal details
+1005, Phishing , A message was sent to me stating that my email password was compromised and I need to reset it using a provided link. , High , English , Synthetic,message sent stating email password compromised need reset using provided link
+1006, Phishing , I received a fake SMS from a courier service asking me to click a link to reschedule a delivery. , Medium , English , Synthetic,received fake sms courier service asking click link reschedule delivery
+1007, Phishing , Someone impersonated a bank executive and asked for my card details over email. , High , English , Synthetic,someone impersonated bank executive asked card details email
+1008, Phishing , I got an email saying my social media account was suspended and asked me to log in through a suspicious link. , Medium , English , Synthetic,got email saying social media account suspended asked log suspicious link
+1009, Phishing , I received an email asking me to confirm my identity to continue using an online service. , Low , English , Synthetic,received email asking confirm identity continue using online service
+1010, Phishing , A fake notification claimed unusual activity on my account and requested verification through a link. , Medium , English , Synthetic,fake notification claimed unusual activity account requested verification link
+1011, Online Fraud , I paid money for an online product but never received the item or any response from the seller. , High , English , Synthetic,paid money online product never received item response seller
+1012, Online Fraud , Someone tricked me into transferring money through UPI for a service that was never provided. , High , English , Synthetic,someone tricked transferring money upi service never provided
+1013, Online Fraud , I was contacted about a fake investment opportunity and lost money after making a payment. , High , English , Synthetic,contacted fake investment opportunity lost money making payment
+1014, Online Fraud , I made an advance payment for a rental service online but the person stopped responding afterward. , Medium , English , Synthetic,made advance payment rental service online person stopped responding afterward
+1015, Online Fraud , A seller on an online marketplace took payment but did not deliver the promised product. , Medium , English , Synthetic,seller online marketplace took payment deliver promised product
+1016, Online Fraud , I was asked to pay a processing fee for a job offer that turned out to be fake. , Medium , English , Synthetic,asked pay processing fee job offer turned fake
+1017, Online Fraud , Someone impersonated a company representative and collected money for a fake service. , High , English , Synthetic,someone impersonated company representative collected money fake service
+1018, Online Fraud , I transferred money for an online course that does not exist. , Medium , English , Synthetic,transferred money online course exist
+1019, Online Fraud , I lost money after responding to a fake lottery message received online. , High , English , Synthetic,lost money responding fake lottery message received online
+1020, Online Fraud , An online seller requested payment outside the platform and then disappeared. , High , English , Synthetic,online seller requested payment outside platform disappeared
+1021, Cyberbullying , I am receiving abusive and threatening messages repeatedly on social media. , High , English , Synthetic,receiving abusive threatening messages repeatedly social media
+1022, Cyberbullying , Someone is harassing me continuously through direct messages on Instagram. , Medium , English , Synthetic,someone harassing continuously direct messages instagram
+1023, Cyberbullying , A user keeps posting offensive comments on my photos and sending hateful messages. , Medium , English , Synthetic,user keeps posting offensive comments photos sending hateful messages
+1024, Cyberbullying , I received threatening messages from an unknown person on a messaging platform. , High , English , Synthetic,received threatening messages unknown person messaging platform
+1025, Cyberbullying , Someone is spreading false and insulting information about me online. , Medium , English , Synthetic,someone spreading false insulting information online
+1026, Cyberbullying , I am being targeted with abusive language during online gaming chats. , Low , English , Synthetic,targeted abusive language online gaming chats
+1027, Cyberbullying , An individual keeps sending unwanted messages even after I asked them to stop. , Medium , English , Synthetic,individual keeps sending unwanted messages even asked stop
+1028, Cyberbullying , I was threatened online for expressing my opinion on a public platform. , High , English , Synthetic,threatened online expressing opinion public platform
+1029, Cyberbullying , Someone created fake accounts to harass me repeatedly. , High , English , Synthetic,someone created fake accounts harass repeatedly
+1030, Cyberbullying , I am receiving insulting messages from multiple users on a social networking site. , Medium , English , Synthetic,receiving insulting messages multiple users social networking site
+1031, Malware , I clicked a link from an unknown email and my computer started behaving abnormally. , High , English , Synthetic,clicked link unknown email computer started behaving abnormally
+1032, Malware ," After downloading a file from a suspicious website, my system was infected with malware. ", High , English , Synthetic,downloading file suspicious website system infected malware
+1033, Malware , I received an email attachment that installed unwanted software on my laptop. , Medium , English , Synthetic,received email attachment installed unwanted software laptop
+1034, Malware , A pop-up forced me to download a fake software update that caused system issues. , High , English , Synthetic,popup forced download fake software update caused system issues
+1035, Malware , I clicked a suspicious link and my browser started redirecting to unknown websites. , Medium , English , Synthetic,clicked suspicious link browser started redirecting unknown websites
+1036, Malware , My antivirus detected malicious software after I opened a file received through email. , High , English , Synthetic,antivirus detected malicious software opened file received email
+1037, Malware , A fake mobile app caused my phone to slow down and display unwanted ads. , Medium , English , Synthetic,fake mobile app caused phone slow display unwanted ads
+1038, Malware , I unknowingly downloaded malware while trying to install free software. , Medium , English , Synthetic,unknowingly downloaded malware trying install free software
+1039, Malware , My device was compromised after opening a suspicious email attachment. , High , English , Synthetic,device compromised opening suspicious email attachment
+1040, Malware , A website prompted me to install a plugin which later infected my system. , Medium , English , Synthetic,website prompted install plugin later infected system
+1041, Other Cybercrime , My social media account was hacked and I lost access to it. , High , English , Synthetic,social media account hacked lost access
+1042, Other Cybercrime , Someone accessed my email account without my permission. , High , English , Synthetic,someone accessed email account without permission
+1043, Other Cybercrime , My personal data was shared online without my consent. , Medium , English , Synthetic,personal data shared online without consent
+1044, Other Cybercrime , An unknown person is impersonating me using a fake online profile. , Medium , English , Synthetic,unknown person impersonating using fake online profile
+1045, Other Cybercrime , My account settings were changed without my knowledge. , Medium , English , Synthetic,account settings changed without knowledge
+1046, Other Cybercrime , I noticed unauthorized login activity on my online account. , High , English , Synthetic,noticed unauthorized login activity online account
+1047, Other Cybercrime , Someone attempted to access my cloud storage without permission. , Medium , English , Synthetic,someone attempted access cloud storage without permission
+1048, Other Cybercrime , My online account was compromised after suspicious activity. , High , English , Synthetic,online account compromised suspicious activity
+1049, Other Cybercrime , I am unsure how my account was accessed but sensitive data was affected. , Medium , English , Synthetic,unsure account accessed sensitive data affected
+1050, Other Cybercrime , My digital identity was misused on an online platform. , High , English , Synthetic,digital identity misused online platform
+1051, Phishing , I received a message saying my bank account was locked and I needed to verify my details through a link. , High , English , Synthetic,received message saying bank account locked needed verify details link
+1052, Phishing , An email pretending to be from a payment app asked me to confirm my login information. , Medium , English , Synthetic,email pretending payment app asked confirm login information
+1053, Phishing , Someone sent me a fake security alert claiming suspicious activity on my account. , High , English , Synthetic,someone sent fake security alert claiming suspicious activity account
+1054, Phishing , I got an SMS saying my parcel delivery failed and asked me to click a link to reschedule. , Medium , English , Synthetic,got sms saying parcel delivery failed asked click link reschedule
+1055, Phishing , A message claimed I won a gift card and asked for my personal details. , Low , English , Synthetic,message claimed gift card asked personal details
+1056, Phishing , I received an email stating my account would be suspended unless I updated my information. , High , English , Synthetic,received email stating account would suspended unless updated information
+1057, Phishing , Someone impersonated customer support and asked me to share verification codes. , High , English , Synthetic,someone impersonated customer support asked share verification codes
+1058, Phishing , I was sent a fake invoice asking me to confirm payment details. , Medium , English , Synthetic,sent fake invoice asking confirm payment details
+1059, Phishing , A suspicious email asked me to reset my password through an unknown link. , High , English , Synthetic,suspicious email asked reset password unknown link
+1060, Phishing , I received a message claiming unusual login activity and requesting identity verification. , Medium , English , Synthetic,received message claiming unusual login activity requesting identity verification
+1061, Phishing , An email pretending to be from a government service asked me to update KYC details. , High , English , Synthetic,email pretending government service asked update kyc details
+1062, Phishing , Someone sent me a fake account verification link through social media. , Medium , English , Synthetic,someone sent fake account verification link social media
+1063, Phishing , I got a notification saying my wallet was frozen and I must confirm my identity. , High , English , Synthetic,got notification saying wallet frozen must confirm identity
+1064, Phishing , A message claimed my subscription expired and asked me to enter card details. , Medium , English , Synthetic,message claimed subscription expired asked enter card details
+1065, Phishing , I received an email asking me to confirm my email address to avoid service disruption. , Low , English , Synthetic,received email asking confirm email address avoid service disruption
+1066, Phishing , Someone sent a fake security email asking for account recovery information. , High , English , Synthetic,someone sent fake security email asking account recovery information
+1067, Phishing , I was asked to click a link to unlock my account after a suspicious login attempt. , High , English , Synthetic,asked click link unlock account suspicious login attempt
+1068, Phishing , A fake alert said my payment failed and requested verification. , Medium , English , Synthetic,fake alert said payment failed requested verification
+1069, Phishing , I received an email pretending to be from an online service asking me to validate my account. , Medium , English , Synthetic,received email pretending online service asking validate account
+1070, Phishing , A message claimed my profile was flagged and I needed to confirm my identity immediately. , High , English , Synthetic,message claimed profile flagged needed confirm identity immediately
+1071, Online Fraud , I paid for an online service but never received confirmation or support. , High , English , Synthetic,paid online service never received confirmation support
+1072, Online Fraud , Someone convinced me to transfer money for a fake job opportunity. , High , English , Synthetic,someone convinced transfer money fake job opportunity
+1073, Online Fraud , I sent payment for an electronic item online but the seller disappeared. , High , English , Synthetic,sent payment electronic item online seller disappeared
+1074, Online Fraud , I lost money after responding to a fake customer support call. , High , English , Synthetic,lost money responding fake customer support call
+1075, Online Fraud , I was asked to make an advance payment for an apartment rental that turned out to be fake. , Medium , English , Synthetic,asked make advance payment apartment rental turned fake
+1076, Online Fraud , I transferred money for an online course that was never delivered. , Medium , English , Synthetic,transferred money online course never delivered
+1077, Online Fraud , A person pretending to be a company agent collected money for a fake subscription. , High , English , Synthetic,person pretending company agent collected money fake subscription
+1078, Online Fraud , I paid for travel tickets online but did not receive any booking details. , Medium , English , Synthetic,paid travel tickets online receive booking details
+1079, Online Fraud , Someone tricked me into sending money for medical assistance that was not real. , High , English , Synthetic,someone tricked sending money medical assistance real
+1080, Online Fraud , I was promised returns on an investment but lost all my money. , High , English , Synthetic,promised returns investment lost money
+1081, Online Fraud , I paid registration fees for a fake internship program. , Medium , English , Synthetic,paid registration fees fake internship program
+1082, Online Fraud , A seller requested payment through UPI and never shipped the product. , High , English , Synthetic,seller requested payment upi never shipped product
+1083, Online Fraud , I was charged for an online service that does not exist. , Medium , English , Synthetic,charged online service exist
+1084, Online Fraud , Someone contacted me about lottery winnings and asked for processing fees. , High , English , Synthetic,someone contacted lottery winnings asked processing fees
+1085, Online Fraud , I paid for an online repair service but nobody arrived. , Medium , English , Synthetic,paid online repair service nobody arrived
+1086, Online Fraud , A fake charity website collected donations and disappeared. , High , English , Synthetic,fake charity website collected donations disappeared
+1087, Online Fraud , I transferred money to a seller outside an online marketplace and was scammed. , High , English , Synthetic,transferred money seller outside online marketplace scammed
+1088, Online Fraud , I lost money after clicking on a fake advertisement for discounted products. , Medium , English , Synthetic,lost money clicking fake advertisement discounted products
+1089, Online Fraud , I paid subscription charges for a service that turned out to be fraudulent. , Medium , English , Synthetic,paid subscription charges service turned fraudulent
+1090, Online Fraud , Someone impersonated a vendor and collected payment for fake goods. , High , English , Synthetic,someone impersonated vendor collected payment fake goods
+1091, Cyberbullying , I am receiving threatening messages repeatedly on my social media account. , High , English , Synthetic,receiving threatening messages repeatedly social media account
+1092, Cyberbullying , Someone keeps sending abusive comments on my posts. , Medium , English , Synthetic,someone keeps sending abusive comments posts
+1093, Cyberbullying , I am being harassed daily through anonymous messages. , High , English , Synthetic,harassed daily anonymous messages
+1094, Cyberbullying , A person keeps mocking and insulting me in online group chats. , Medium , English , Synthetic,person keeps mocking insulting online group chats
+1095, Cyberbullying , I am getting hateful messages from multiple users on a platform. , High , English , Synthetic,getting hateful messages multiple users platform
+1096, Cyberbullying , Someone keeps creating fake profiles to harass me. , High , English , Synthetic,someone keeps creating fake profiles harass
+1097, Cyberbullying , I am receiving unwanted messages even after blocking the sender. , Medium , English , Synthetic,receiving unwanted messages even blocking sender
+1098, Cyberbullying , I was targeted with abusive language during an online discussion. , Medium , English , Synthetic,targeted abusive language online discussion
+1099, Cyberbullying , Someone threatened me online over a disagreement. , High , English , Synthetic,someone threatened online disagreement
+1100, Cyberbullying , I am being bullied repeatedly through private messages. , Medium , English , Synthetic,bullied repeatedly private messages
+1101, Cyberbullying , A user is spreading false rumors about me online. , Medium , English , Synthetic,user spreading false rumors online
+1102, Cyberbullying , I am receiving offensive messages in online gaming chats. , Low , English , Synthetic,receiving offensive messages online gaming chats
+1103, Cyberbullying , Someone keeps sending disturbing messages on messaging apps. , High , English , Synthetic,someone keeps sending disturbing messages messaging apps
+1104, Cyberbullying , I am facing online harassment from unknown accounts. , Medium , English , Synthetic,facing online harassment unknown accounts
+1105, Cyberbullying , A person is continuously trolling me on social media. , Medium , English , Synthetic,person continuously trolling social media
+1106, Cyberbullying , I am being targeted with hateful comments on my profile. , High , English , Synthetic,targeted hateful comments profile
+1107, Cyberbullying , Someone posted abusive content tagging me. , Medium , English , Synthetic,someone posted abusive content tagging
+1108, Cyberbullying , I received threatening voice messages online. , High , English , Synthetic,received threatening voice messages online
+1109, Cyberbullying , Multiple users are sending insulting messages to me. , Medium , English , Synthetic,multiple users sending insulting messages
+1110, Cyberbullying , I am experiencing continuous online intimidation. , High , English , Synthetic,experiencing continuous online intimidation
+1111, Malware , I downloaded a file from an unknown site and my system started crashing. , High , English , Synthetic,downloaded file unknown site system started crashing
+1112, Malware , My phone began showing pop-up ads after installing a suspicious app. , Medium , English , Synthetic,phone began showing popup ads installing suspicious app
+1113, Malware , I opened an email attachment and my antivirus detected a virus. , High , English , Synthetic,opened email attachment antivirus detected virus
+1114, Malware , A website forced me to download a fake update which slowed my computer. , High , English , Synthetic,website forced download fake update slowed computer
+1115, Malware , I clicked a suspicious link and my browser kept redirecting to random sites. , Medium , English , Synthetic,clicked suspicious link browser kept redirecting random sites
+1116, Malware ," After installing free software, unwanted programs appeared on my laptop. ", Medium , English , Synthetic,installing free software unwanted programs appeared laptop
+1117, Malware , My device was infected after opening a link sent through messaging apps. , High , English , Synthetic,device infected opening link sent messaging apps
+1118, Malware , I unknowingly installed malware while trying to download a media player. , Medium , English , Synthetic,unknowingly installed malware trying download media player
+1119, Malware , My computer became slow after opening a suspicious email attachment. , Medium , English , Synthetic,computer became slow opening suspicious email attachment
+1120, Malware , A fake plugin installed spyware on my system. , High , English , Synthetic,fake plugin installed spyware system
+1121, Malware , I received a suspicious download link that installed harmful software. , High , English , Synthetic,received suspicious download link installed harmful software
+1122, Malware , My phone battery started draining quickly after installing a fake app. , Medium , English , Synthetic,phone battery started draining quickly installing fake app
+1123, Malware , A pop-up forced me to install software that corrupted my files. , High , English , Synthetic,popup forced install software corrupted files
+1124, Malware , My browser homepage changed automatically after clicking a link. , Medium , English , Synthetic,browser homepage changed automatically clicking link
+1125, Malware , Unknown applications appeared on my device after downloading a free tool. , Medium , English , Synthetic,unknown applications appeared device downloading free tool
+1126, Malware , A suspicious website triggered malware installation. , High , English , Synthetic,suspicious website triggered malware installation
+1127, Malware , I received an email with a document that infected my system. , High , English , Synthetic,received email document infected system
+1128, Malware , My device started overheating after installing an unknown program. , Medium , English , Synthetic,device started overheating installing unknown program
+1129, Malware , I was redirected to multiple unsafe websites after clicking a link. , Medium , English , Synthetic,redirected multiple unsafe websites clicking link
+1130, Malware , My laptop was compromised after downloading cracked software. , High , English , Synthetic,laptop compromised downloading cracked software
+1131, Other Cybercrime , My email account was accessed without my permission. , High , English , Synthetic,email account accessed without permission
+1132, Other Cybercrime , Someone changed my account password without informing me. , High , English , Synthetic,someone changed account password without informing
+1133, Other Cybercrime , I noticed suspicious login activity on my social media profile. , Medium , English , Synthetic,noticed suspicious login activity social media profile
+1134, Other Cybercrime , My online account was compromised and personal data was altered. , High , English , Synthetic,online account compromised personal data altered
+1135, Other Cybercrime , Someone created a fake profile using my name and photo. , Medium , English , Synthetic,someone created fake profile using name photo
+1136, Other Cybercrime , I lost access to my cloud storage due to unauthorized login. , High , English , Synthetic,lost access cloud storage due unauthorized login
+1137, Other Cybercrime , My account settings were modified without my consent. , Medium , English , Synthetic,account settings modified without consent
+1138, Other Cybercrime , I received alerts about login attempts from unknown locations. , Medium , English , Synthetic,received alerts login attempts unknown locations
+1139, Other Cybercrime , My digital identity was misused on an online platform. , High , English , Synthetic,digital identity misused online platform
+1140, Other Cybercrime , Someone tried to reset my password using unknown credentials. , Medium , English , Synthetic,someone tried reset password using unknown credentials
+1141, Other Cybercrime , I observed unusual activity on my email account. , Medium , English , Synthetic,observed unusual activity email account
+1142, Other Cybercrime , My profile information was edited without my approval. , Medium , English , Synthetic,profile information edited without approval
+1143, Other Cybercrime , An unknown user gained access to my online account. , High , English , Synthetic,unknown user gained access online account
+1144, Other Cybercrime , I received notifications of login attempts from multiple devices. , Medium , English , Synthetic,received notifications login attempts multiple devices
+1145, Other Cybercrime , Someone attempted to impersonate me online. , Medium , English , Synthetic,someone attempted impersonate online
+1146, Other Cybercrime , My account was locked after suspicious access attempts. , High , English , Synthetic,account locked suspicious access attempts
+1147, Other Cybercrime , I am unable to access my account due to unauthorized changes. , High , English , Synthetic,unable access account due unauthorized changes
+1148, Other Cybercrime , My personal information appeared online without my knowledge. , Medium , English , Synthetic,personal information appeared online without knowledge
+1149, Other Cybercrime , Someone used my digital identity on a public platform. , High , English , Synthetic,someone used digital identity public platform
+1150, Other Cybercrime , My online account shows activity that I did not perform. , Medium , English , Synthetic,online account shows activity perform
+1151, Phishing , I received an email claiming unusual activity on my bank account and asking me to verify details. , High , English , Synthetic,received email claiming unusual activity bank account asking verify details
+1152, Phishing , Someone sent me a fake message asking to confirm my payment account. , Medium , English , Synthetic,someone sent fake message asking confirm payment account
+1153, Phishing , I got a suspicious email requesting me to update KYC information. , High , English , Synthetic,got suspicious email requesting update kyc information
+1154, Phishing , A text message said my account was blocked and asked me to click a link. , High , English , Synthetic,text message said account blocked asked click link
+1155, Phishing , I received a fake alert asking me to reset my password immediately. , Medium , English , Synthetic,received fake alert asking reset password immediately
+1156, Phishing , Someone impersonated customer support and requested verification codes. , High , English , Synthetic,someone impersonated customer support requested verification codes
+1157, Phishing , An email claimed my subscription expired and asked me to enter card details. , Medium , English , Synthetic,email claimed subscription expired asked enter card details
+1158, Phishing , I was told I won a prize and needed to submit personal information. , Low , English , Synthetic,told prize needed submit personal information
+1159, Phishing , A suspicious link was sent asking me to confirm my email address. , Medium , English , Synthetic,suspicious link sent asking confirm email address
+1160, Phishing , I received a fake notification saying my account would be suspended. , High , English , Synthetic,received fake notification saying account would suspended
+1161, Online Fraud , I paid money for a mobile phone online but never received delivery. , High , English , Synthetic,paid money mobile phone online never received delivery
+1162, Online Fraud , Someone convinced me to send money for a fake business opportunity. , High , English , Synthetic,someone convinced send money fake business opportunity
+1163, Online Fraud , I transferred funds for online coaching that turned out to be fake. , Medium , English , Synthetic,transferred funds online coaching turned fake
+1164, Online Fraud , A seller took advance payment and stopped responding afterward. , High , English , Synthetic,seller took advance payment stopped responding afterward
+1165, Online Fraud , I paid booking charges for travel tickets that were never issued. , Medium , English , Synthetic,paid booking charges travel tickets never issued
+1166, Online Fraud , I lost money after responding to a fake customer service call. , High , English , Synthetic,lost money responding fake customer service call
+1167, Online Fraud , Someone collected payment pretending to sell electronic goods online. , High , English , Synthetic,someone collected payment pretending sell electronic goods online
+1168, Online Fraud , I was asked to pay a processing fee for a job offer that was fake. , Medium , English , Synthetic,asked pay processing fee job offer fake
+1169, Online Fraud , I sent money for a subscription service that does not exist. , Medium , English , Synthetic,sent money subscription service exist
+1170, Online Fraud , A fake vendor collected payment for products that were never delivered. , High , English , Synthetic,fake vendor collected payment products never delivered
+1171, Cyberbullying , Someone keeps sending me threatening messages on social media. , High , English , Synthetic,someone keeps sending threatening messages social media
+1172, Cyberbullying , I am being insulted repeatedly in online group chats. , Medium , English , Synthetic,insulted repeatedly online group chats
+1173, Cyberbullying , A user is posting hateful comments on my profile. , Medium , English , Synthetic,user posting hateful comments profile
+1174, Cyberbullying , I am receiving unwanted messages despite blocking the sender. , Medium , English , Synthetic,receiving unwanted messages despite blocking sender
+1175, Cyberbullying , Someone is spreading false rumors about me online. , High , English , Synthetic,someone spreading false rumors online
+1176, Cyberbullying , I was verbally abused during an online discussion. , Low , English , Synthetic,verbally abused online discussion
+1177, Cyberbullying , I am facing harassment from anonymous accounts. , High , English , Synthetic,facing harassment anonymous accounts
+1178, Cyberbullying , Someone keeps tagging me in abusive posts. , Medium , English , Synthetic,someone keeps tagging abusive posts
+1179, Cyberbullying , I received threatening voice messages through a messaging app. , High , English , Synthetic,received threatening voice messages messaging app
+1180, Cyberbullying , Multiple users are sending me offensive messages. , Medium , English , Synthetic,multiple users sending offensive messages
+1181, Malware , My computer slowed down after opening a suspicious email attachment. , Medium , English , Synthetic,computer slowed opening suspicious email attachment
+1182, Malware , A fake app installed spyware on my phone. , High , English , Synthetic,fake app installed spyware phone
+1183, Malware , I clicked a link and unwanted software appeared on my laptop. , Medium , English , Synthetic,clicked link unwanted software appeared laptop
+1184, Malware , My antivirus detected malware after downloading a file. , High , English , Synthetic,antivirus detected malware downloading file
+1185, Malware , A suspicious website forced me to install harmful software. , High , English , Synthetic,suspicious website forced install harmful software
+1186, Malware , My browser homepage changed automatically after clicking a link. , Medium , English , Synthetic,browser homepage changed automatically clicking link
+1187, Malware , Unknown programs were installed after downloading free software. , Medium , English , Synthetic,unknown programs installed downloading free software
+1188, Malware , I received a document that infected my system. , High , English , Synthetic,received document infected system
+1189, Malware , My phone started overheating after installing an unknown app. , Medium , English , Synthetic,phone started overheating installing unknown app
+1190, Malware , A pop-up forced me to download a plugin that corrupted my files. , High , English , Synthetic,popup forced download plugin corrupted files
+1191, Other Cybercrime , My online account showed login activity that I did not recognize. , Medium , English , Synthetic,online account showed login activity recognize
+1192, Other Cybercrime , Someone attempted to reset my password without authorization. , High , English , Synthetic,someone attempted reset password without authorization
+1193, Other Cybercrime , My profile information was changed without my permission. , Medium , English , Synthetic,profile information changed without permission
+1194, Other Cybercrime , I received alerts about access attempts from unknown locations. , Medium , English , Synthetic,received alerts access attempts unknown locations
+1195, Other Cybercrime , Someone created a fake account pretending to be me. , Medium , English , Synthetic,someone created fake account pretending
+1196, Other Cybercrime , My cloud storage was accessed by an unknown user. , High , English , Synthetic,cloud storage accessed unknown user
+1197, Other Cybercrime , I noticed suspicious activity on my email account. , Medium , English , Synthetic,noticed suspicious activity email account
+1198, Other Cybercrime , My digital identity was misused on an online platform. , High , English , Synthetic,digital identity misused online platform
+1199, Other Cybercrime , I was locked out of my account due to unauthorized changes. , High , English , Synthetic,locked account due unauthorized changes
+1200, Other Cybercrime , Someone gained access to my account without my consent. , High , English , Synthetic,someone gained access account without consent
+1201, Phishing , I received a fake email saying my account would be deactivated unless I verified details. , High , English , Synthetic,received fake email saying account would deactivated unless verified details
+1202, Phishing , Someone sent me a suspicious message asking me to confirm my wallet information. , Medium , English , Synthetic,someone sent suspicious message asking confirm wallet information
+1203, Phishing , I got an email pretending to be from customer care asking for identity verification. , High , English , Synthetic,got email pretending customer care asking identity verification
+1204, Phishing , A message claimed my payment failed and asked me to update card details. , Medium , English , Synthetic,message claimed payment failed asked update card details
+1205, Phishing , I received a link saying my email storage was full and needed confirmation. , Low , English , Synthetic,received link saying email storage full needed confirmation
+1206, Phishing , A fake support message asked me to share my account recovery codes. , High , English , Synthetic,fake support message asked share account recovery codes
+1207, Phishing , Someone sent a phishing email asking me to reactivate my suspended account. , High , English , Synthetic,someone sent phishing email asking reactivate suspended account
+1208, Phishing , I was told my profile was flagged and I needed to verify identity. , Medium , English , Synthetic,told profile flagged needed verify identity
+1209, Phishing , A suspicious notification asked me to confirm my phone number. , Low , English , Synthetic,suspicious notification asked confirm phone number
+1210, Phishing , I received an email requesting me to validate my login credentials. , High , English , Synthetic,received email requesting validate login credentials
+1211, Online Fraud , I paid for a laptop online but never received any shipment details. , High , English , Synthetic,paid laptop online never received shipment details
+1212, Online Fraud , Someone convinced me to invest money in a fake crypto scheme. , High , English , Synthetic,someone convinced invest money fake crypto scheme
+1213, Online Fraud , I transferred funds for an online service that turned out to be fake. , Medium , English , Synthetic,transferred funds online service turned fake
+1214, Online Fraud , A seller collected advance payment and blocked my contact afterward. , High , English , Synthetic,seller collected advance payment blocked contact afterward
+1215, Online Fraud , I lost money after responding to a fake online advertisement. , Medium , English , Synthetic,lost money responding fake online advertisement
+1216, Online Fraud , I paid for event tickets online but the tickets were never delivered. , Medium , English , Synthetic,paid event tickets online tickets never delivered
+1217, Online Fraud , Someone posed as a supplier and collected money for fake products. , High , English , Synthetic,someone posed supplier collected money fake products
+1218, Online Fraud , I was charged for an online membership that does not exist. , Medium , English , Synthetic,charged online membership exist
+1219, Online Fraud , I sent money for an online training program that was fraudulent. , High , English , Synthetic,sent money online training program fraudulent
+1220, Online Fraud , A fake vendor collected payment for services that were never provided. , High , English , Synthetic,fake vendor collected payment services never provided
+1221, Cyberbullying , Someone keeps sending insulting messages to me online. , Medium , English , Synthetic,someone keeps sending insulting messages online
+1222, Cyberbullying , I am being targeted with hateful comments on social media. , High , English , Synthetic,targeted hateful comments social media
+1223, Cyberbullying , A user is continuously harassing me through private messages. , Medium , English , Synthetic,user continuously harassing private messages
+1224, Cyberbullying , I received threatening messages after posting an opinion online. , High , English , Synthetic,received threatening messages posting opinion online
+1225, Cyberbullying , Someone keeps trolling me on public forums. , Medium , English , Synthetic,someone keeps trolling public forums
+1226, Cyberbullying , I am being bullied repeatedly in online gaming chats. , Low , English , Synthetic,bullied repeatedly online gaming chats
+1227, Cyberbullying , A person keeps tagging me in abusive posts. , Medium , English , Synthetic,person keeps tagging abusive posts
+1228, Cyberbullying , I am facing harassment from unknown social media accounts. , High , English , Synthetic,facing harassment unknown social media accounts
+1229, Cyberbullying , Multiple users are sending me offensive replies. , Medium , English , Synthetic,multiple users sending offensive replies
+1230, Cyberbullying , I received abusive voice messages through a messaging app. , High , English , Synthetic,received abusive voice messages messaging app
+1231, Malware , My system started freezing after opening a suspicious attachment. , High , English , Synthetic,system started freezing opening suspicious attachment
+1232, Malware , A fake application installed unwanted software on my phone. , Medium , English , Synthetic,fake application installed unwanted software phone
+1233, Malware , I clicked a link and my browser started redirecting randomly. , Medium , English , Synthetic,clicked link browser started redirecting randomly
+1234, Malware , My antivirus detected malicious files after downloading free tools. , High , English , Synthetic,antivirus detected malicious files downloading free tools
+1235, Malware , A pop-up forced me to install a fake update that corrupted my system. , High , English , Synthetic,popup forced install fake update corrupted system
+1236, Malware , Unknown apps appeared on my device after clicking a suspicious link. , Medium , English , Synthetic,unknown apps appeared device clicking suspicious link
+1237, Malware , I opened an email document and my laptop became infected. , High , English , Synthetic,opened email document laptop became infected
+1238, Malware , My phone slowed down after installing software from an unknown source. , Medium , English , Synthetic,phone slowed installing software unknown source
+1239, Malware , A website automatically downloaded harmful files to my computer. , High , English , Synthetic,website automatically downloaded harmful files computer
+1240, Malware , My system showed malware warnings after opening a suspicious email. , High , English , Synthetic,system showed malware warnings opening suspicious email
+1241, Other Cybercrime , Someone accessed my email account without my knowledge. , High , English , Synthetic,someone accessed email account without knowledge
+1242, Other Cybercrime , My online profile was modified without my permission. , Medium , English , Synthetic,online profile modified without permission
+1243, Other Cybercrime , I received alerts about login attempts from unknown devices. , Medium , English , Synthetic,received alerts login attempts unknown devices
+1244, Other Cybercrime , Someone tried to impersonate me on a social platform. , Medium , English , Synthetic,someone tried impersonate social platform
+1245, Other Cybercrime , My account was locked after suspicious access activity. , High , English , Synthetic,account locked suspicious access activity
+1246, Other Cybercrime , I noticed unauthorized changes in my cloud account. , Medium , English , Synthetic,noticed unauthorized changes cloud account
+1247, Other Cybercrime , An unknown user gained access to my digital account. , High , English , Synthetic,unknown user gained access digital account
+1248, Other Cybercrime , My personal data was altered without my consent. , Medium , English , Synthetic,personal data altered without consent
+1249, Other Cybercrime , I was notified about multiple login attempts from different locations. , Medium , English , Synthetic,notified multiple login attempts different locations
+1250, Other Cybercrime , Someone used my online identity without authorization. , High , English , Synthetic,someone used online identity without authorization
+1251, Phishing , I received an email asking me to confirm my bank details to avoid account suspension. , High , English , Synthetic,received email asking confirm bank details avoid account suspension
+1252, Phishing , Someone sent me a fake alert saying my wallet was locked. , Medium , English , Synthetic,someone sent fake alert saying wallet locked
+1253, Phishing , A suspicious email asked me to update my login credentials. , High , English , Synthetic,suspicious email asked update login credentials
+1254, Phishing , I got a message claiming my account was compromised and needed verification. , High , English , Synthetic,got message claiming account compromised needed verification
+1255, Phishing , A fake service notification requested personal information. , Medium , English , Synthetic,fake service notification requested personal information
+1256, Phishing , I was asked to click a link to reactivate my account. , Medium , English , Synthetic,asked click link reactivate account
+1257, Phishing , An email pretended to be from customer support and asked for verification. , High , English , Synthetic,email pretended customer support asked verification
+1258, Phishing , Someone sent me a fake security warning through SMS. , Medium , English , Synthetic,someone sent fake security warning sms
+1259, Phishing , A suspicious message claimed my subscription expired. , Low , English , Synthetic,suspicious message claimed subscription expired
+1260, Phishing , I received a phishing email asking me to validate my identity. , High , English , Synthetic,received phishing email asking validate identity
+1261, Online Fraud , I paid for an online gadget but never received delivery. , High , English , Synthetic,paid online gadget never received delivery
+1262, Online Fraud , Someone collected money for fake insurance services. , High , English , Synthetic,someone collected money fake insurance services
+1263, Online Fraud , I was tricked into sending money for an online scheme. , High , English , Synthetic,tricked sending money online scheme
+1264, Online Fraud , A fake seller collected payment and blocked me. , High , English , Synthetic,fake seller collected payment blocked
+1265, Online Fraud , I paid booking charges for accommodation that does not exist. , Medium , English , Synthetic,paid booking charges accommodation exist
+1266, Online Fraud , Someone impersonated a service provider and took money. , High , English , Synthetic,someone impersonated service provider took money
+1267, Online Fraud , I transferred funds for online coaching that was fake. , Medium , English , Synthetic,transferred funds online coaching fake
+1268, Online Fraud , I lost money after responding to a fake job advertisement. , High , English , Synthetic,lost money responding fake job advertisement
+1269, Online Fraud , A fraudulent website collected payment for subscriptions. , Medium , English , Synthetic,fraudulent website collected payment subscriptions
+1270, Online Fraud , I paid advance fees for services that were never provided. , High , English , Synthetic,paid advance fees services never provided
+1271, Cyberbullying , Someone keeps sending hateful messages on social media. , High , English , Synthetic,someone keeps sending hateful messages social media
+1272, Cyberbullying , I am being targeted with abusive replies online. , Medium , English , Synthetic,targeted abusive replies online
+1273, Cyberbullying , A user keeps harassing me in online discussions. , Medium , English , Synthetic,user keeps harassing online discussions
+1274, Cyberbullying , I received threatening messages from anonymous accounts. , High , English , Synthetic,received threatening messages anonymous accounts
+1275, Cyberbullying , Someone keeps trolling me publicly. , Medium , English , Synthetic,someone keeps trolling publicly
+1276, Cyberbullying , I am facing repeated online intimidation. , High , English , Synthetic,facing repeated online intimidation
+1277, Cyberbullying , I received abusive comments on my profile. , Medium , English , Synthetic,received abusive comments profile
+1278, Cyberbullying , Someone keeps messaging me offensive content. , Medium , English , Synthetic,someone keeps messaging offensive content
+1279, Cyberbullying , Multiple users are bullying me online. , High , English , Synthetic,multiple users bullying online
+1280, Cyberbullying , I am being harassed through fake accounts. , High , English , Synthetic,harassed fake accounts
+1281, Malware , My system slowed down after opening a suspicious link. , Medium , English , Synthetic,system slowed opening suspicious link
+1282, Malware , A fake update installed harmful software on my laptop. , High , English , Synthetic,fake update installed harmful software laptop
+1283, Malware , Unknown programs appeared after installing free apps. , Medium , English , Synthetic,unknown programs appeared installing free apps
+1284, Malware , My phone was infected after clicking a suspicious ad. , High , English , Synthetic,phone infected clicking suspicious ad
+1285, Malware , A malicious file corrupted my system. , High , English , Synthetic,malicious file corrupted system
+1286, Malware , I opened an attachment and my computer crashed. , High , English , Synthetic,opened attachment computer crashed
+1287, Malware , My browser redirected automatically after clicking a link. , Medium , English , Synthetic,browser redirected automatically clicking link
+1288, Malware , A website downloaded malware without permission. , High , English , Synthetic,website downloaded malware without permission
+1289, Malware , My device started showing malware alerts. , High , English , Synthetic,device started showing malware alerts
+1290, Malware , I installed software that infected my laptop. , Medium , English , Synthetic,installed software infected laptop
+1291, Other Cybercrime , Someone accessed my online account without authorization. , High , English , Synthetic,someone accessed online account without authorization
+1292, Other Cybercrime , I noticed suspicious login activity on my profile. , Medium , English , Synthetic,noticed suspicious login activity profile
+1293, Other Cybercrime , My digital account was compromised. , High , English , Synthetic,digital account compromised
+1294, Other Cybercrime , Someone attempted to reset my password. , Medium , English , Synthetic,someone attempted reset password
+1295, Other Cybercrime , My personal information was changed online. , Medium , English , Synthetic,personal information changed online
+1296, Other Cybercrime , I received alerts about unknown device logins. , Medium , English , Synthetic,received alerts unknown device logins
+1297, Other Cybercrime , Someone impersonated me on a website. , Medium , English , Synthetic,someone impersonated website
+1298, Other Cybercrime , My cloud account was accessed by an unknown user. , High , English , Synthetic,cloud account accessed unknown user
+1299, Other Cybercrime , I was locked out due to unauthorized changes. , High , English , Synthetic,locked due unauthorized changes
+1300, Other Cybercrime , My online identity was misused. , High , English , Synthetic,online identity misused
