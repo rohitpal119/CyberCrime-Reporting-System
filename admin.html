@@ -94,7 +94,8 @@ margin-top:50px;
 <div class="stats" id="count"></div>
 
 <div id="reports"></div>
-
+<div id="callLogs"></div>
+<div id="firSection"></div>
 </div>
 
 <footer>
@@ -129,6 +130,82 @@ ${c.description || "Image Report"}
 `;
 
 });
+
+// ================= AI CALL LOGS =================
+
+let logs = JSON.parse(localStorage.getItem("callLogs") || "[]");
+
+let callBox = document.getElementById("callLogs");
+
+if(logs.length > 0){
+
+callBox.innerHTML += `
+<h1 style="
+margin-top:50px;
+margin-bottom:20px;
+color:cyan;
+">
+📞 AI CALL CONVERSATION
+</h1>
+`;
+
+logs.forEach(c=>{
+
+callBox.innerHTML += `
+<div class="card">
+<b>${c.sender}:</b>
+<br><br>
+${c.message}
+</div>
+`;
+
+});
+
+}
+// ================= FIR REPORT =================
+
+let fir = JSON.parse(localStorage.getItem("firReport") || "{}");
+
+let firBox = document.getElementById("firSection");
+
+if(Object.keys(fir).length > 0){
+
+firBox.innerHTML = `
+<h1 style="
+margin-top:50px;
+margin-bottom:20px;
+color:cyan;
+">
+📝 GENERATED FIR REPORT
+</h1>
+
+<div class="card">
+
+<b>Incident:</b>
+<br><br>
+${fir.incident || "N/A"}
+
+<br><br>
+
+<b>Time:</b>
+<br><br>
+${fir.time || "N/A"}
+
+<br><br>
+
+<b>Platform:</b>
+<br><br>
+${fir.platform || "N/A"}
+
+<br><br>
+
+<b>Proof:</b>
+<br><br>
+${fir.proof || "N/A"}
+
+</div>
+`;
+}
 
 </script>
 
